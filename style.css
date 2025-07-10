@@ -1,0 +1,77 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url(wp14410094-balatro-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    padding: 10px 5%;
+    color:white;
+    background-color:black;
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    object-fit: cover;
+    
+}
+
+header>*{
+    display: inline-block;
+    width:800px;
+}
+
+.emptiness{
+    width:10%;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    margin:0 10px;
+}
+
+img{
+    padding:0px 450px;
+    object-fit:contain;
+    width:800px;
+    height:300px;
+}
+
+
+article{
+	width: 500px;
+    height: 120px;
+	font-size: 20px;
+    padding:20px;
+    margin:15%;
+    border:5px solid red;
+    color:white;
+    border-radius:90;
+    background-color:darkred;
+}
+
+
+article>p{
+	width: 60%;
+	height: 60%;
+	font-size: 70%;
+}
+article{
+    border:2px solid rgb(255,0,0)
+}
+    main>p{
+    border:1px solid rgb(0,0,255)
+    }
+
+#que{}
+#como{}
+#por{}
+#pordos{}
+#donde{}
+
+
+
